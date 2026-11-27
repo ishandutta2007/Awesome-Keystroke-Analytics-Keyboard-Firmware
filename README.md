@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Keystroke-Analytics-Keyboard-Firmware/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Keystroke-Analytics-Keyboard-Firmware?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Keystroke-Analytics-Keyboard-Firmware/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Keystroke-Analytics-Keyboard-Firmware?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Keystroke-Analytics-Keyboard-Firmware/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Keystroke-Analytics-Keyboard-Firmware?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -60,13 +60,13 @@ The following table provides a comparison of major commercial peripheral ecosyst
 
 ## 🔓 Open-Source Equivalents & Utilities
 
-A curated, star-ranked index of open-source mechanical keyboard firmwares, typing telemetry tools, key remapping daemons, and cross-platform RGB software. Each project features a live GitHub star badge linking directly to its stargazers.
+A curated, star-ranked index of open-source mechanical keyboard firmwares, typing telemetry tools, key remapping daemons, and cross-platform RGB software. Each project features a live GitHub Stars_Badge linking directly to its stargazers.
 
 ### 📊 Keystroke Analytics, Heatmaps & Typing Telemetry
 
 Tools for tracking typing performance, keystroke count, input heatmaps, and finger travel ergonomics.
 
-| Project | Stars | Language | Primary Features |
+| Project | GitHub_Stars | Language | Primary Features |
 | :--- | :--- | :--- | :--- |
 | **[Monkeytype](https://github.com/monkeytypegame/monkeytype)** | <a href="https://github.com/monkeytypegame/monkeytype/stargazers"><img src="https://img.shields.io/github/stars/monkeytypegame/monkeytype?style=social&color=white" alt="Monkeytype Stars" /></a> | TypeScript / CSS | Highly customizable, open-source typing speed test featuring detailed WPM telemetry, burst metrics, error heatmaps, and custom themes. |
 | **[ActivityWatch](https://github.com/ActivityWatch/activitywatch)** | <a href="https://github.com/ActivityWatch/activitywatch/stargazers"><img src="https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=social&color=white" alt="ActivityWatch Stars" /></a> | Python / Rust / Vue | Privacy-focused automated activity tracker logging active window usage, keystroke frequencies, and productivity metrics locally with zero cloud leakage. |
@@ -81,7 +81,7 @@ Tools for tracking typing performance, keystroke count, input heatmaps, and fing
 
 Custom firmware engines powering DIY builds, split ergonomic designs, wireless Bluetooth keyboards, and Hall-effect controllers.
 
-| Project | Stars | Language | Primary Features |
+| Project | GitHub_Stars | Language | Primary Features |
 | :--- | :--- | :--- | :--- |
 | **[QMK Firmware](https://github.com/qmk/qmk_firmware)** | <a href="https://github.com/qmk/qmk_firmware/stargazers"><img src="https://img.shields.io/github/stars/qmk/qmk_firmware?style=social&color=white" alt="QMK Firmware Stars" /></a> | C / Makefile | The industry-standard open-source keyboard firmware with support for thousands of custom keyboards, dynamic macros, Tap-Dance, and RGB lighting. |
 | **[ZMK Firmware](https://github.com/zmkfirmware/zmk)** | <a href="https://github.com/zmkfirmware/zmk/stargazers"><img src="https://img.shields.io/github/stars/zmkfirmware/zmk?style=social&color=white" alt="ZMK Firmware Stars" /></a> | C / Zephyr RTOS | Modern wireless-first mechanical keyboard firmware built on Zephyr RTOS featuring ultra-low power Bluetooth Low Energy (BLE) and native split sync. |
@@ -97,7 +97,7 @@ Custom firmware engines powering DIY builds, split ergonomic designs, wireless B
 
 Graphical interfaces for real-time keymapping, macro recording, layer inspection, and SVG layout rendering.
 
-| Project | Stars | Language | Primary Features |
+| Project | GitHub_Stars | Language | Primary Features |
 | :--- | :--- | :--- | :--- |
 | **[Vial GUI](https://github.com/vial-kb/vial-gui)** | <a href="https://github.com/vial-kb/vial-gui/stargazers"><img src="https://img.shields.io/github/stars/vial-kb/vial-gui?style=social&color=white" alt="Vial GUI Stars" /></a> | Python / PyQt | Privacy-first open-source fork of VIA offering offline desktop/WebHID configuration, Tap Dance, Combos, Key Overrides, and encrypted EEPROM unlocking. |
 | **[Keymap Drawer](https://github.com/caksoylar/keymap-drawer)** | <a href="https://github.com/caksoylar/keymap-drawer/stargazers"><img src="https://img.shields.io/github/stars/caksoylar/keymap-drawer?style=social&color=white" alt="Keymap Drawer Stars" /></a> | Python | CLI and web tool that parses QMK/ZMK keymap files and renders visual, publication-quality SVG layout diagrams automatically. |
@@ -110,7 +110,7 @@ Graphical interfaces for real-time keymapping, macro recording, layer inspection
 
 OS-level keyboard interception engines bringing QMK/ZMK tap-hold, home-row modifiers, and multi-layer workflows to standard laptop and desktop keyboards.
 
-| Project | Stars | Language | Primary Features |
+| Project | GitHub_Stars | Language | Primary Features |
 | :--- | :--- | :--- | :--- |
 | **[Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)** | <a href="https://github.com/pqrs-org/Karabiner-Elements/stargazers"><img src="https://img.shields.io/github/stars/pqrs-org/Karabiner-Elements?style=social&color=white" alt="Karabiner-Elements Stars" /></a> | C++ / Swift | The universal keyboard customizer and modifier remapper for macOS; features complex rule matching, virtual HID manipulation, and per-device profile switching. |
 | **[AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)** | <a href="https://github.com/AutoHotkey/AutoHotkey/stargazers"><img src="https://img.shields.io/github/stars/AutoHotkey/AutoHotkey?style=social&color=white" alt="AutoHotkey Stars" /></a> | C++ | Powerful scripting language and keyboard/mouse automation engine for Windows, enabling custom hotkeys, text expansions, and GUI automation. |
@@ -125,7 +125,7 @@ OS-level keyboard interception engines bringing QMK/ZMK tap-hold, home-row modif
 
 Cross-vendor RGB backlighting utilities that eliminate proprietary background processes and bloatware.
 
-| Project | Stars | Language | Primary Features |
+| Project | GitHub_Stars | Language | Primary Features |
 | :--- | :--- | :--- | :--- |
 | **[OpenRGB](https://github.com/CalcProgrammer1/OpenRGB)** | <a href="https://github.com/CalcProgrammer1/OpenRGB/stargazers"><img src="https://img.shields.io/github/stars/CalcProgrammer1/OpenRGB?style=social&color=white" alt="OpenRGB Stars" /></a> | C++ / Qt | Cross-platform open-source RGB lighting control suite replacing vendor bloatware (Synapse, iCUE, G HUB) across keyboards, motherboards, RAM, and GPUs. |
 | **[Artemis RGB](https://github.com/Artemis-RGB/Artemis)** | <a href="https://github.com/Artemis-RGB/Artemis/stargazers"><img src="https://img.shields.io/github/stars/Artemis-RGB/Artemis?style=social&color=white" alt="Artemis RGB Stars" /></a> | C# / .NET | Unified open-source RGB synchronization engine providing game telemetry integrations, real-time audio visualizers, and multi-device lighting layers. |
@@ -138,7 +138,7 @@ Contributions, feature suggestions, and updates are warmly welcomed! 🌟
 
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 🌿 **Create a feature branch** (`git checkout -b feature/amazing-keyboard-utility`).
-3. 📝 **Add your project** in the appropriate category with clean Markdown formatting, pricing / star badges, and concise descriptions.
+3. 📝 **Add your project** in the appropriate category with clean Markdown formatting, pricing / Stars_Badges, and concise descriptions.
 4. 🚀 **Commit your changes** (`git commit -m "Add new telemetry tool"`).
 5. 📬 **Open a Pull Request** explaining the benefits and features of the proposed addition.
 
